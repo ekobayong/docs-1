@@ -1,14 +1,16 @@
-# Introduction
+# Pengantar
 
-- [Laravel Philosophy](#laravel-philosophy)
-- [Learning Laravel](#learning-laravel)
-- [Development Team](#development-team)
-- [Framework Sponsors](#framework-sponsors)
+- [Filosofi Laravel](#laravel-philosophy)
+- [Mempelajari Laravel](#learning-laravel)
+- [Tim Pengembang](#development-team)
+- [Sponsor Framework](#framework-sponsors)
 
 <a name="laravel-philosophy"></a>
-## Laravel Philosophy
+## Filosofi Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching.
+Laravel adalah sebuah framework/kerangka kerja dengan sintak ekspresif dan elegan. Kami percaya pengembangan seharusnya menjadi hal yang menyenangkan, pengalaman kreatif yang akan benar-benar memuaskan. Laravel berupaya untuk menghilang proses yang menyakitkan dalam sebuah pengembangan dengan mengurangi tugas-tugas umum yang digunakan dalam sebagian besar proyek-proyek web, seperti otentikasi, routing, session, dan caching.
+
+Laravel bertujuan untuk membuat proses pembangunan yang menyenangkan satu untuk pengembang tanpa mengorbankan fungsionalitas aplikasi. Pengembang senang membuat kode terbaik. Untuk tujuan ini, kami telah berusaha untuk menggabungkan yang terbaik dari apa yang telah kita lihat dalam kerangka web lain, termasuk kerangka kerja diimplementasikan dalam bahasa lain, seperti Ruby on Rails, ASP.NET MVC, dan Sinatra.
 
 Laravel aims to make the development process a pleasing one for the developer without sacrificing application functionality. Happy developers make the best code. To this end, we've attempted to combine the very best of what we have seen in other web frameworks, including frameworks implemented in other languages, such as Ruby on Rails, ASP.NET MVC, and Sinatra.
 
